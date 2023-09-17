@@ -1,10 +1,14 @@
 package JavaProgrammingLAB;
 import java.util.*;
+
+/*
+* simple Java program that prints the multiplication table for a given number.
+*/
 class multiplication {
     private int number, result;
     multiplication() {
-        number = 1;
-        result = 0;
+        number = 1;//The number for which you want to print the multiplication table.
+        result = 0;// the result of the multiplication.
     }
     public void mul() {
         Scanner scan = new Scanner(System.in);

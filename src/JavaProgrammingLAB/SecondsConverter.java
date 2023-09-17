@@ -1,6 +1,9 @@
 package JavaProgrammingLAB;
 import java.util.Scanner;
 
+/*
+*
+*/
 public class SecondsConverter {
 
     private double hours, minutes, seconds;
@@ -57,7 +60,10 @@ public class SecondsConverter {
             default:
                 System.out.println("Error out of range!");
                 break;
+            }
+
         }
-        }
+
     }
+
 }
