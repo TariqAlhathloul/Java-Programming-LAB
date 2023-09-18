@@ -1,6 +1,5 @@
 package JavaProgrammingLAB;
 import java.util.Scanner;
-
 /*
 *
 */
