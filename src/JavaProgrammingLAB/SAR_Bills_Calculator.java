@@ -37,13 +37,13 @@ public class SAR_Bills_Calculator {
       int total=r500+r200+r100+r50+r20+r10+r5+r1;
         
       System.out.println("The minimum number of bills required for " + sar + " SAR is " + total);
-      System.out.println("500 SR: "+r500);
-      System.out.println("200 SR: "+r200);
-      System.out.println("100 SR: "+r100);
-      System.out.println("50 SR: "+r50);
-      System.out.println("20 SR: "+r20);
-      System.out.println("10 SR: "+r10);
-      System.out.println("5 SR: "+r5);
-      System.out.println("1 SR: "+r1);
+      System.out.println("500 SAR: "+r500);
+      System.out.println("200 SAR: "+r200);
+      System.out.println("100 SAR: "+r100);
+      System.out.println("50 SAR: "+r50);
+      System.out.println("20 SAR: "+r20);
+      System.out.println("10 SAR: "+r10);
+      System.out.println("5 SAR: "+r5);
+      System.out.println("1 SAR: "+r1);
     }
 }
