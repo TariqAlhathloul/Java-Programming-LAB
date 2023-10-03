@@ -14,19 +14,24 @@ import java.util.Scanner;
 *  Finally, the program prints the sum of the two numbers.
 */
 public class sumProgram {
-    Scanner scan = new Scanner(System.in);
-    public void sumOfTwoPositiveNumbers(){
-        int num1=0,num2=0, sum=0;
-        System.out.println("Enter Two Positive Numbers followed by a space:");
-        num1 = scan.nextInt();
-        num2 = scan.nextInt();
-        scan.close();
-        if(num1 >= 0 && num2 >= 0) {
-            sum = num1 + num2;
-            System.out.println("Sum of the two numbers = " + sum);
-        }else{
-            System.out.println("You Entered a Negative Number Please ReEnter The numbers again");
+    public static void main(String[] args) {
+        Scanner scan=new Scanner(System.in);
+        System.out.print("Enter the first positive number: ");
+        int n1=scan.nextInt();
+        while (n1<0){
+            System.out.println("You entered a negative number");
+            System.out.print("Re-enter the first positive number: ");
+            n1=in.nextInt();
         }
+        System.out.print("Enter the second positive number: ");
+        int n2=scan.nextInt();
+        while (n2<0){
+            System.out.println("You entered a negative number");
+            System.out.print("Re-enter the second positive number: ");
+            n2=in.nextInt();
+        }
+        int sum=n1+n2;
+        System.out.print(n1+" + "+n2+" = "+sum);
     }
 
 }
