@@ -13,8 +13,18 @@ public class Main {
         //obj.greatestAndSmallest();
         //numberInfo abs = new numberInfo();
        // abs.getNumberInfo();
-        compareDoubles d = new compareDoubles();
-        d.compare2Doubles();
+        //compareDoubles d = new compareDoubles();
+        //d.compare2Doubles();
+        //sumProgram res = new sumProgram();
+        //res.sumOfTwoPositiveNumbers();
+        //PassOrFail check = new PassOrFail();
+        //check.checkPassOrFail();
+        //ascendingNumber s = new ascendingNumber();
+        //s.ascendingNum();
+        //simpleCalculator calc = new simpleCalculator();
+        //calc.calculator();
+        Multiples mul = new Multiples();
+        mul.MultiplesOfNumber();
 
     }
 }
