@@ -1,16 +1,19 @@
 package JavaProgrammingLAB;
 import java.util.Scanner;
+
+
+/*
+|---------------------------------|
+|DATE: week 4, 2023 sep 14 | LAB 1|
+|---------------------------------|
+*/
+
+
 /*
 * program that ask the user to enter an amount in Saudi Riyal.
 *Then print the minimum number of bills required to get the given amount.
 */
 
-/*
- * PROJECT TITLE: Introduction to Java applications.
- *PURPOSE OF PROJECT: Practice Java programming language.
- *VERSION or DATE: week 4, 09/14/23
- *HOW TO START THIS PROJECT:visit the following websites https://www.bluej.org/ or any IDE you Desire.
- */
 public class SAR_Bills_Calculator {
     public void SAR_BILLs_CALCULATOR() {
         Scanner scan = new Scanner(System.in);

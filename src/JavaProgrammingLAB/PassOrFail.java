@@ -9,6 +9,7 @@ import java.util.Scanner;
 
 
 /*
+* 2.Second question:
 * Write a java program that asks the user to enter his\her grade.
 * The grade must be between 0 and 100, and then print if the user succeed or fail.
 *  To succeed the grade must be greater than 60.

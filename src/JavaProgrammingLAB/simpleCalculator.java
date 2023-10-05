@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 
 /*
-*
+*5. Fifth question:
 *  Write a java program that act as a simple calculator using the switch statement.
 *  +,-,*,/
 *

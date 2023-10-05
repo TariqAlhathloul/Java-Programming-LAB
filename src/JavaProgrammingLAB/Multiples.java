@@ -10,21 +10,21 @@ import java.util.Scanner;
 
 
 /*
-*
-* Write a java program that asks the user to enter a number between 50 and 100
+*4.Fourth question:
+ * Write a java program that asks the user to enter a number between 50 and 100
 * then print all the multiple of 5 from zero to the given number.
 *
 * */
 public class Multiples {
     Scanner scan = new Scanner(System.in);
     public void MultiplesOfNumber() {
-        int number,result = 1, i=1;
+        int number,result = 0, i=1;
         System.out.println("Enter A Positive Number Between 50-100.");
         number = scan.nextInt();
 
         if(number >=50 && number <=100) {
             while (result < number) {
-                result = i * 5;
+                result += 5;
                 System.out.print(result + ", ");
                 ++i;
             }
