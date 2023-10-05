@@ -14,27 +14,25 @@ import java.util.Scanner;
 
 
 public class compareDoubles {
-    Scanner scan = new Scanner(System.in);
-    public void compare2Doubles() {
 
-        System.out.println("Enter First Floating-point Number:");
-        double x = scan.nextDouble();
-        System.out.println("Enter Second Floating-point Number:");
-        double y = scan.nextDouble();
-        scan.close();
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter two numbers (click enter after each number):");
 
-        y = y / 1000;
-        x = x / 1000;
-        /*
-        ************************
-        * Still need to improve*
-        ************************
-         */
+        double n1 = in.nextDouble();
+        double n2 = in.nextDouble();
 
-        if((int)x == (int)y) {
-            System.out.println(x + "==" + y);
-        } else {
-            System.out.println(x + "!=" + y);
-        }
+        final double PL=1E-3;//=0.001
+
+        if (Math.abs(n1 - n2) <= PL)
+            System.out.println("Entered numbers are the same up to third decimal places");
+        else 
+        {
+            if((n1 - n2)>0)
+                System.out.println("Greatest Number is " + n1);
+            else 
+                System.out.println("Greatest Number is " + n2);
+        }  
+
     }
 }
