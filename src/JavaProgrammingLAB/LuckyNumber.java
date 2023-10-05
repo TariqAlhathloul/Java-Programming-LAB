@@ -1,4 +1,12 @@
 package JavaProgrammingLAB;
+
+
+/*
+|----------------------------------|
+|DATE: week 4 | 2023 sep 14 | LAB 1|
+|----------------------------------|
+*/
+
 /*
  * PROJECT TITLE: Introduction to Java applications.
  *PURPOSE OF PROJECT: Practice Java programming language.

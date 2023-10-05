@@ -1,8 +1,10 @@
 package JavaProgrammingLAB;
 import java.util.Scanner;
+
+
 /*
 |---------------------------------|
-|DATE: week 7, 2023 oct 5 | LAB 5 |
+|DATE: week 7, 2023 oct 5 | LAB 4 |
 |---------------------------------|
 */
 
@@ -14,6 +16,7 @@ import java.util.Scanner;
 *The header of the method is as follows:
 *public static void Compute Power (int x, int y)
 * */
+
 
 
 public class computePower {

@@ -7,9 +7,8 @@ import java.util.Scanner;
 |---------------------------------|
 */
 
-
-
 //Take three numbers from the user and print the greatest number and the smaller number
+
 
 public class greatestANDsmallest {
     public void greatestAndSmallest() {

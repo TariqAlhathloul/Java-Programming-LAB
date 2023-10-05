@@ -2,7 +2,7 @@ package JavaProgrammingLAB;
 
 /*
 |---------------------------------|
-|DATE: week 7, 2023 oct 5 | LAB 5 |
+|DATE: week 7, 2023 oct 5 | LAB 4 |
 |---------------------------------|
 */
 

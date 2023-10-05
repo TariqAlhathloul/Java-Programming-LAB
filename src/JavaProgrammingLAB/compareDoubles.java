@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /*
 |---------------------------------|
-|DATE: week 5, 2023 sep 21 | LAB 3|
+|DATE: week 5, 2023 sep 21 | LAB 2|
 |---------------------------------|
 */
 
@@ -11,6 +11,8 @@ import java.util.Scanner;
 --Write a Java program that reads two floating-point numbers and tests
 --whether they are the same up to three decimal places.
 */
+
+
 public class compareDoubles {
     Scanner scan = new Scanner(System.in);
     public void compare2Doubles() {

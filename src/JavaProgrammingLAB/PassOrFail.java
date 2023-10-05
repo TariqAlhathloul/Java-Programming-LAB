@@ -1,12 +1,12 @@
 package JavaProgrammingLAB;
 import java.util.Scanner;
-/*
- * PROJECT TITLE: Introduction to Java applications.
- *PURPOSE OF PROJECT: Practice Java programming language.
- *VERSION or DATE: week 6, 09/28/23
- *HOW TO START THIS PROJECT:visit the following websites https://www.bluej.org/ or any IDE you Desire.
- */
 
+
+/*
+|---------------------------------|
+|DATE: week 6, 2023 sep 28 | LAB 3|
+|---------------------------------|
+*/
 
 /*
 * 2.Second question:
