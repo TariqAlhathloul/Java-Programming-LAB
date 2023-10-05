@@ -14,10 +14,24 @@ package JavaProgrammingLAB;
 * The header of the method is as follows:
 * public static boolean isPositive (int x)
 * */
+
+import java.util.Scanner;
 public class IsPositive {
 
+    public static void main(String[] args) {
+        Scanner in=new Scanner(System.in);
+        System.out.print("Enter a number: ");
+        int x=in.nextInt();
+        if(isPositive(x)==true)
+            System.out.print("The number is positive");
+        else
+            System.out.print("The number is negative");
+    }
+    
     public static boolean isPositive(int x){
-        boolean result = x >= 0 ? true : false;
-        return result;
+        if(x>0)
+            return true;
+        else
+            return false;
     }
 }
