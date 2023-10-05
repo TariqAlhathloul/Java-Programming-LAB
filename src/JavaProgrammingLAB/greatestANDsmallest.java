@@ -2,12 +2,12 @@ package JavaProgrammingLAB;
 import java.util.Scanner;
 
 /*
-|---------------------------------|
-|DATE: week 6, 2023 sep 28 | LAB 3|
-|---------------------------------|
+|----------------------------------|
+|DATE: week 6 | 2023 sep 28 | LAB 3|
+|----------------------------------|
 */
 
-//Take three numbers from the user and print the greatest number and the smaller number
+/*Take three numbers from the user and print the greatest number and the smaller number.*/
 
 
 public class greatestANDsmallest {

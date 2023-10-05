@@ -3,18 +3,18 @@ import java.util.Scanner;
 
 
 /*
-|---------------------------------|
-|DATE: week 6, 2023 sep 28 | LAB 3|
-|---------------------------------|
+|----------------------------------|
+|DATE: week 6 | 2023 sep 28 | LAB 3|
+|----------------------------------|
 */
 
 
 /*
-*1.First question:
- * Write a java program that asks the user to enter two positive numbers.
-*  If the user enters a negative number,
+* 1.First question:
+* Write a java program that asks the user to enter two positive numbers.
+* If the user enters a negative number,
 * then the program keeps asking him\her to renter a positive one.
-*  Finally, the program prints the sum of the two numbers.
+* Finally, the program prints the sum of the two numbers.
 */
 public class sumProgram {
     Scanner scan = new Scanner(System.in);

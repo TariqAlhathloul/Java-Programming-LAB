@@ -3,18 +3,17 @@ import java.util.Scanner;
 
 
 /*
-|---------------------------------|
-|DATE: week 7, 2023 oct 5 | LAB 4 |
-|---------------------------------|
+|----------------------------------|
+|DATE: week 7 | 2023 oct 5 | LAB 4 |
+|----------------------------------|
 */
 
 /*
-*
 * 1.First question:
-*Create a Java method to compute the power of an integer number and print it to the screen.
-*The integer number and the power are received as parameter. Call this method from main().
-*The header of the method is as follows:
-*public static void Compute Power (int x, int y)
+* Create a Java method to compute the power of an integer number and print it to the screen.
+* The integer number and the power are received as parameter. Call this method from main().
+* The header of the method is as follows:
+* public static void Compute Power (int x, int y)
 * */
 
 

@@ -2,14 +2,14 @@ package JavaProgrammingLAB;
 import java.util.Scanner;
 
 /*
-|---------------------------------|
-|DATE: week 5, 2023 sep 21 | LAB 2|
-|---------------------------------|
+|----------------------------------|
+|DATE: week 5 | 2023 sep 21 | LAB 2|
+|----------------------------------|
 */
 
 /*
---Write a Java program that reads two floating-point numbers and tests
---whether they are the same up to three decimal places.
+* Write a Java program that reads two floating-point numbers and tests
+* whether they are the same up to three decimal places.
 */
 
 

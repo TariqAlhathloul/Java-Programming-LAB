@@ -3,15 +3,15 @@ import java.util.Scanner;
 
 
 /*
-|---------------------------------|
-|DATE: week 4, 2023 sep 14 | LAB 1|
-|---------------------------------|
+|----------------------------------|
+|DATE: week 4 | 2023 sep 14 | LAB 1|
+|----------------------------------|
 */
 
 
 /*
 * program that ask the user to enter an amount in Saudi Riyal.
-*Then print the minimum number of bills required to get the given amount.
+* Then print the minimum number of bills required to get the given amount.
 */
 
 public class SAR_Bills_Calculator {

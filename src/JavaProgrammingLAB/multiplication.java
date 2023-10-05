@@ -1,15 +1,17 @@
 package JavaProgrammingLAB;
 import java.util.Scanner;
 
-
 /*
-|---------------------------------|
-|DATE: week 4, 2023 sep 28 | LAB 2|
-|---------------------------------|
+|----------------------------------|
+|DATE: week 4 | 2023 sep 28 | LAB 2|
+|----------------------------------|
 */
+
+
 /*
 * simple Java program that prints the multiplication table for a given number.
 */
+
 class multiplication {
     Scanner scan = new Scanner(System.in);
     private int number, result;

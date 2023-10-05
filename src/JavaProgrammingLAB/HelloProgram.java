@@ -3,18 +3,18 @@ import java.util.Scanner;
 
 
 /*
-|---------------------------------|
-|DATE: week 4, 2023 sep 14 | LAB 1|
-|---------------------------------|
+|----------------------------------|
+|DATE: week 4 | 2023 sep 14 | LAB 1|
+|----------------------------------|
 */
 
-
+/*
+* Simple program that print hello followed by the name to the user.
+*/
 public class HelloProgram {
 
     public void Hello(){
-        /*
-        * Simple program that print hello to the user.
-        */
+
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter your name: ");
         String name = scan.nextLine();

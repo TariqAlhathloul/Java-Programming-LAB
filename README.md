@@ -1,3 +1,3 @@
 # SEU_LAB
-السلام عليكم، مستودع لجميع التكليفات للاب.
-.السلام عليكم ورحمة الله وبركاته، قروب الواتس للإستفسارات و التعاون	https://chat.whatsapp.com/CaEeAQIuyeN081A4A8JDmA
+#   هذا المستودع غير رسمي من الجامعة، فقط لغرض التدرب والتعلم.
+# this is unofficial repository and it's just created for practice purposes. !

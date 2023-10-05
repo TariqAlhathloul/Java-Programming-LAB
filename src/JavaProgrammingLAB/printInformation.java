@@ -3,9 +3,9 @@ package JavaProgrammingLAB;
 
 
 /*
-|---------------------------------|
-|DATE: week 4, 2023 sep 14 | LAB 1|
-|---------------------------------|
+|----------------------------------|
+|DATE: week 4 | 2023 sep 14 | LAB 1|
+|----------------------------------|
 */
 public class printInformation {
     public void print(){

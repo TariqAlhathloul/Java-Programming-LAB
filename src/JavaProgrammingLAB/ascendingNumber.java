@@ -3,17 +3,17 @@ import java.util.Scanner;
 
 
 /*
-|---------------------------------|
-|DATE: week 6, 2023 sep 28 | LAB 3|
-|---------------------------------|
+|----------------------------------|
+|DATE: week 6 | 2023 sep 28 | LAB 3|
+|----------------------------------|
 */
 
 
 /*
 *3.Third question:
 * Write a java program, using the while loop, that:
-•	Ask the user to give a positive number less than 100.
-•	Print all the numbers from the given number to 200.
+* Ask the user to give a positive number less than 100.
+* Print all the numbers from the given number to 200.
 */
 
 

@@ -3,14 +3,14 @@ import java.util.Scanner;
 
 
 /*
-|---------------------------------|
-|DATE: week 5, 2023 sep 21 | LAB 2|
-|---------------------------------|
+|----------------------------------|
+|DATE: week 5 | 2023 sep 21 | LAB 2|
+|----------------------------------|
 
 */
 /*
 * Write a Java program to get a number from the user and print whether
-*  it is positive or negative and if it is odd or even.
+* it is positive or negative and if it is odd or even.
 */
 
 public class NumberCheck {

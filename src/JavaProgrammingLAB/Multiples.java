@@ -3,16 +3,15 @@ import java.util.Scanner;
 
 
 /*
-|---------------------------------|
-|DATE: week 6, 2023 sep 28 | LAB 3|
-|---------------------------------|
+|----------------------------------|
+|DATE: week 6 | 2023 sep 28 | LAB 3|
+|----------------------------------|
 */
 
 /*
-*4.Fourth question:
- * Write a java program that asks the user to enter a number between 50 and 100
+* 4.Fourth question:
+* Write a java program that asks the user to enter a number between 50 and 100
 * then print all the multiple of 5 from zero to the given number.
-*
 * */
 public class Multiples {
     Scanner scan = new Scanner(System.in);
