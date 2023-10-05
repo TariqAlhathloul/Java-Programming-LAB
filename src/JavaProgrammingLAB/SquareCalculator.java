@@ -14,10 +14,21 @@ package JavaProgrammingLAB;
 * Call this method from main(). The header of the method is as follows:
 * public int getSquare (int x).
 * */
+
+import java.util.Scanner;
 public class SquareCalculator {
-    public int getSquare (int x) {
-        int sqare = x * x;
-        System.out.printf("The Square of %d  is: %d %n", x, sqare);
-        return sqare;
+    
+    public int getSquare(int x){
+        int result=x*x;
+        return result;
+    }
+
+    public static void main(String[] args) {
+        Scanner in=new Scanner(System.in);
+        SquareCalculator obj=new SquareCalculator();
+        System.out.print("Enter a number: ");
+        int x=in.nextInt();
+        int result=obj.getSquare(x);
+        System.out.print(x+" squared is "+result);
     }
 }
