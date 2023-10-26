@@ -1,5 +1,7 @@
 
 
 
-
+Code that looks familiar is easier to understand and therefore also easier to review,
+debug and maintain.
+ To ensure that code looks familiar to all developers on the project it’s important to agree on a common set of style guidelines.
 https://google.github.io/styleguide/javaguide.html
