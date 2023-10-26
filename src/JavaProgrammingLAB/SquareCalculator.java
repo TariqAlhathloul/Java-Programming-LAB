@@ -16,8 +16,8 @@ package JavaProgrammingLAB;
 * */
 public class SquareCalculator {
     public int getSquare (int x) {
-        int sqare = x * x;
-        System.out.printf("The Square of %d  is: %d %n", x, sqare);
-        return sqare;
+        int square = x * x;
+        System.out.printf("The Square of %d  is: %d %n", x, square);
+        return square;
     }
 }
