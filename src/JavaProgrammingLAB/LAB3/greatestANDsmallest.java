@@ -1,4 +1,4 @@
-package JavaProgrammingLAB;
+package JavaProgrammingLAB.LAB3;
 import java.util.Scanner;
 
 /*

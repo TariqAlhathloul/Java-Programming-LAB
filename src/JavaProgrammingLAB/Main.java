@@ -15,6 +15,8 @@ package JavaProgrammingLAB;
 ----------------------------------------------------------------------------!
 */
 
+import JavaProgrammingLAB.LAB6.DescendingArray;
+
 public class Main {
     public static void main(String[] args) {
         //ArrayManipulation arr = new ArrayManipulation();
