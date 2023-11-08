@@ -1,4 +1,4 @@
-package JavaProgrammingLAB;
+package JavaProgrammingLAB.LAB1;
 
 
 

@@ -13,18 +13,18 @@ package JavaProgrammingLAB;
 !                  هذا المستودع غير رسمي من الجامعة، فقط لغرض التدرب والتعلم.
 *this is unofficial repository and it's just created for practice purposes. !
 ----------------------------------------------------------------------------!
-* */
+*/
+
+import JavaProgrammingLAB.LAB6.DescendingArray;
 
 public class Main {
     public static void main(String[] args) {
-        //computePower comp = new computePower();
-        //comp.start();
-        //System.out.println(ProductCalculator.product(5,5,5));
-       // System.out.println(IsPositive.isPositive(-1));
-       // StudentInfoPrinter obj = new StudentInfoPrinter();
-       // obj.getStudentINFO();
-        SquareCalculator calc = new SquareCalculator();
-        calc.getSquare(5);
+        //ArrayManipulation arr = new ArrayManipulation();
+        //arr.arrayManipulation();
+        //ArrayElementAccess access = new ArrayElementAccess();
+        //access.Main();
+        DescendingArray D = new DescendingArray();
+        D.descendingArray();
 
     }
 }
