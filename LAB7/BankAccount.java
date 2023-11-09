@@ -26,11 +26,6 @@ public class BankAccount {
         this.customerName = customerName;
     }
 
-    BankAccount(float Balance) {
-        this.balance = Balance;
-        accountNumber = 0;
-        customerName = "";
-    }
 
     /*setter methods*/
     public void setAccountNumber(long accountNumber) {
