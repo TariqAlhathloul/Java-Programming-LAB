@@ -8,23 +8,17 @@ package JavaProgrammingLAB;
  * or any IDE you Desire.
  */
 
-/*
-----------------------------------------------------------------------------!
-!                  هذا المستودع غير رسمي من الجامعة، فقط لغرض التدرب والتعلم.
-*this is unofficial repository and it's just created for practice purposes. !
-----------------------------------------------------------------------------!
-*/
 
-import JavaProgrammingLAB.LAB6.DescendingArray;
+import JavaProgrammingLAB.LAB7.BankTester;
+import JavaProgrammingLAB.LAB7.Pen;
+import JavaProgrammingLAB.LAB7.PenTester;
 
 public class Main {
     public static void main(String[] args) {
-        //ArrayManipulation arr = new ArrayManipulation();
-        //arr.arrayManipulation();
-        //ArrayElementAccess access = new ArrayElementAccess();
-        //access.Main();
-        DescendingArray D = new DescendingArray();
-        D.descendingArray();
 
+        //PenTester show = new PenTester();
+        //show.Main();
+        BankTester view = new BankTester();
+        view.Main();
     }
 }
