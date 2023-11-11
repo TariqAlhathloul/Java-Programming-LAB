@@ -8,10 +8,14 @@ package JavaProgrammingLAB;
  * or any IDE you Desire.
  */
 
+/*
+----------------------------------------------------------------------------!
+!                  هذا المستودع غير رسمي من الجامعة، فقط لغرض التدرب والتعلم.
+*this is unofficial repository, and it's just created for practice purposes. !
+----------------------------------------------------------------------------!
+*/
 
-import JavaProgrammingLAB.LAB7.BankTester;
-import JavaProgrammingLAB.LAB7.Pen;
-import JavaProgrammingLAB.LAB7.PenTester;
+import JavaProgrammingLAB.LAB7.*;
 
 public class Main {
     public static void main(String[] args) {
