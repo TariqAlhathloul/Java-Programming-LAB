@@ -6,11 +6,23 @@
 ## how to contribute to this repository?
 
 ## first fork the repository by clicking on the fork button.
+![fork button](Fork.png)
+
 
 ## Clone the repository
+
+
+![clone the repository](codeArrow.png)
+
+
+![copy](copyLink.png)
+
+
 ```
 git clone https://github.com/TariqAlhathloul/Java-Programming-LAB.git
 ```
+
+
 ## After cloning the repository open the terminal and run this command
 ```
  cd src/JavaProgrammingLAB
@@ -23,10 +35,13 @@ git switch -c add-your-branch-name
 
 ### create and/or modify files 
 
+
 ### add the files
 ```
 git add fileName
 ```
+
+
 ### then comment your changes
 ```
 git commit -m "anyComment"
