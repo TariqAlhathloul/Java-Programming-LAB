@@ -9,10 +9,15 @@ package JavaProgrammingLAB.LAB8;
 public class Teacher extends Person {
 
     private String subject;
+    Teacher() {
 
+    }
+    Teacher(String subject) {
+        this.subject = subject;
+    }
     public void Explain() {
         System.out.println("Explanation begins");
 
     }
-
+    
 }
