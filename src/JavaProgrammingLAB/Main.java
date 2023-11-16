@@ -18,11 +18,9 @@ package JavaProgrammingLAB;
 import JavaProgrammingLAB.LAB7.*;
 
 public class Main {
+
     public static void main(String[] args) {
 
-        //PenTester show = new PenTester();
-        //show.Main();
-        BankTester view = new BankTester();
-        view.Main();
     }
+
 }
