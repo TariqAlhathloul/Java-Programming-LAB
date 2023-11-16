@@ -6,9 +6,9 @@ package JavaProgrammingLAB.LAB8;
 |----------------------------------|
 */
 
-
 public class Person {
      int age;
+
     public void SetAge (int n) {
         age = n;
     }

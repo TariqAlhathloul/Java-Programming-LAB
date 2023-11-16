@@ -1,4 +1,4 @@
-package JavaProgrammingLAB;
+package JavaProgrammingLAB.LAB1;
 
 /*
  * PROJECT TITLE: Introduction to Java applications.

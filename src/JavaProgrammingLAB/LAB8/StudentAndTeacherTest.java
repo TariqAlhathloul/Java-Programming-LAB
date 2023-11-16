@@ -7,7 +7,6 @@ package JavaProgrammingLAB.LAB8;
 |----------------------------------|
 */
 
-
 public class StudentAndTeacherTest {
 
         public static void main(String[] args) {
