@@ -24,7 +24,7 @@ git clone https://github.com/TariqAlhathloul/Java-Programming-LAB.git
 ```
 
 
-## After cloning the repository open the terminal and run this command
+## After cloning the repository run this command
 ```
  cd src/JavaProgrammingLAB
 ```
