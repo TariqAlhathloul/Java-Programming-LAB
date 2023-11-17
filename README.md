@@ -18,6 +18,7 @@
 ![copy](copyLink.png)
 
 
+### run this command to clone the repository
 ```
 git clone https://github.com/TariqAlhathloul/Java-Programming-LAB.git
 ```
@@ -51,7 +52,7 @@ git commit -m "anyComment"
 ```
 git push -u origin your-branch-name
 ```
-### go to your repository on GitHub, Click on Compare & pull request button.
+### finally go to your repository on gitHub, click on compare & pull request button.
 ### I will merge your contribution soon, thank you.
 ### Start your Java programming journey today with JavaProgrammingLAB. Happy coding!
  
