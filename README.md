@@ -26,7 +26,7 @@ git clone https://github.com/TariqAlhathloul/Java-Programming-LAB.git
 
 ## After cloning the repository run this command
 ```
- cd src/JavaProgrammingLAB
+ cd Java-Programming-LAB
 ```
 
 ## create your branch
