@@ -24,12 +24,12 @@ git clone https://github.com/TariqAlhathloul/Java-Programming-LAB.git
 ```
 
 
-## After cloning the repository run this command
+### After cloning the repository run this command
 ```
  cd Java-Programming-LAB
 ```
 
-## create your branch
+### create your branch
 ```
 git switch -c add-your-branch-name
 ```
@@ -42,7 +42,7 @@ git switch -c add-your-branch-name
 git add fileName
 ```
 
-
+> you can use ```git status``` to see the files changed 
 ### then comment your changes
 ```
 git commit -m "anyComment"
