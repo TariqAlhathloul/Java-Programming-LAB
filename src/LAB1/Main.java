@@ -1,4 +1,4 @@
-package JavaProgrammingLAB.LAB1;
+package JavaProgrammingLAB;
 
 /*
  * PROJECT TITLE: Introduction to Java applications.
@@ -8,19 +8,17 @@ package JavaProgrammingLAB.LAB1;
  * or any IDE you Desire.
  */
 
-/*
-----------------------------------------------------------------------------!
-!                  هذا المستودع غير رسمي من الجامعة، فقط لغرض التدرب والتعلم.
-*this is unofficial repository, and it's just created for practice purposes. !
-----------------------------------------------------------------------------!
-*/
 
-import JavaProgrammingLAB.LAB7.*;
+import JavaProgrammingLAB.LAB7.BankTester;
+import JavaProgrammingLAB.LAB7.Pen;
+import JavaProgrammingLAB.LAB7.PenTester;
 
 public class Main {
-
     public static void main(String[] args) {
 
+        //PenTester show = new PenTester();
+        //show.Main();
+        BankTester view = new BankTester();
+        view.Main();
     }
-
 }
