@@ -6,10 +6,6 @@ import java.util.Scanner;
 |----------------------------------|
 */
 
-/*
--The second letter will be the length of the first name. If the length is greater than 9 then only the ones digit will be considered.
--The fifth letter will be the reminder of the division of the age by 9.
-*/
 public class PasswordGenerator {
      private String firstName;
      private String lastName;
@@ -42,9 +38,9 @@ public class PasswordGenerator {
     }
     private String generatePassword(String firstName, String lastName, double age) {
          char first = firstName.charAt(0);
-         int second = firstName.length();
+         int second = firstName.length() > 9 ? Integer.parseInt(firstName.substring(firstName.length() - 1)) : firstName.length();
          char third = lastName.charAt(lastName.length()-1);
-         int fourth = lastName.length();
+         int fourth = lastName.length() > 9 ? Integer.parseInt(lastName.substring(lastName.length() - 1)) : lastName.length();
          double fifth = age % 9;
          passWord = ("" + first + second + third + fourth + fifth).toLowerCase();
          System.out.println(passWord);
